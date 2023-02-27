@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tareas</string>
+    <string name="buscar">Buscar Tarea</string>
+    <string name="agregar">+</string>
+    <string name="tv1">¿Qué vas a hacer?</string>
+    <string name="et1">Escribe aquí tu tarea</string>
+    <string name="tv2">Fecha</string>
+    <string name="et2">DD/MM/AAAA</string>
+    <string name="tv3">Hora</string>
+    <string name="et3">HH:MM</string>
+    <string name="btnCon">Confirmar</string>
+</resources>
